@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Petit Sarr</h1>
-<h3 align="center">A passionate Full Stack developer from Sénégal</h3>
+<h1 align="center">Hi 👋, I'm Petit Sarr.</h1>
+<h3 align="center">A passionate Full Stack developer from Sénégal.</h3>
 
 <p align="left"> <img src="https://img.freepik.com/premium-vector/full-stack-developer-working-computer-vector-illustration-it-professional-web-developer-programmi_103044-1164.jpg?w=2000" /> </p>
 
